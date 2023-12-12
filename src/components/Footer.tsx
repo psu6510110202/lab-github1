@@ -189,6 +189,8 @@ const Footer = (): JSX.Element => (
             </a>
           </div>
         </div>
+
+        
       </div>
     </footer>
   </div>
